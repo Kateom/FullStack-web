@@ -1,0 +1,18 @@
+.main_container{
+    /* background-color: rgb(7, 8, 8); */
+    margin-bottom: 5rem;
+}
+
+
+ul{
+    display: flex;
+    gap: 2rem;
+    list-style-type:none;
+   
+
+}
+
+a{
+  color:white;
+  text-decoration: none;
+}

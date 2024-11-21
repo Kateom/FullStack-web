@@ -1,0 +1,14 @@
+footer {
+    width: 100%;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    text-align: center;
+    background-color: var(--btn-color);
+    color: #fff; 
+    padding: 1rem; 
+    box-sizing: border-box; 
+   
+}
